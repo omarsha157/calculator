@@ -15,7 +15,7 @@
 }
 
 .calc-grid {
-    height: 100vh;
+    min-height: 100vh;
 
     display: grid;
     justify-content: center;
